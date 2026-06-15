@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <circle cx="32" cy="32" r="30" fill="url(#foxGrad)"/>
+  <path d="M18 28c-2-8 4-14 10-12 3 1 5 4 4 7l6-4c4-3 10 0 11 6 1 5-2 9-6 10l-2 14h-8l-2-14c-4-1-7-4-7-7z" fill="#fff" opacity="0.95"/>
+  <circle cx="26" cy="30" r="3" fill="#1e293b"/>
+  <circle cx="38" cy="30" r="3" fill="#1e293b"/>
+  <path d="M28 38c2 2 6 2 8 0" stroke="#ff7139" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="foxGrad" x1="8" y1="8" x2="56" y2="56">
+      <stop stop-color="#ff7139"/>
+      <stop offset="1" stop-color="#e44d26"/>
+    </linearGradient>
+  </defs>
+</svg>
